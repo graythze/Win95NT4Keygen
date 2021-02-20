@@ -34,6 +34,9 @@ The sum of second segment must be divisible by seven and the last digit cannot b
 
 * File `keys.txt` will be created. Open it to get keys
 
+# Legal of using this code
+This code was made **only** for educational purposes based on leaked Windows NT 4 source code.
+
 # Sources
 ***Windows NT 4.0 and Windows 95 Key Generator*** by ***[@nilaerdna](https://github.com/nilaerdna/Windows95NT4KeyGenerator)***
 
