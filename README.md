@@ -45,6 +45,6 @@ The sum of second segment must be divisible by seven, and the last digit cannot 
 
 ***Examining the Microsoft mod7 product key algorithm*** by ***[@dgurney](https://gurney.dev/posts/mod7/)***
 
-**Leaked Windows NT 4 source code***
+***Leaked Windows NT 4 source code***
 
 **this code was made **only** for educational purposes. Use it at your own risk*
